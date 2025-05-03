@@ -1,5 +1,11 @@
-project name : libraray website voice assistant 
-how to use :
-download the zip file (library_website_voice_assistant1.zip) 
-unzip the project . 
-in the project folder you will also find a README that will give you the instructions you need to be able to use this project helpfully .
+## project name : libraray website voice assistant 
+## how to use:
+1.download the (library_website_voice_assistant1.zip) 
+2. Extract the files. 
+3. open "voice.py" in your editor and run it! .
+## Features
+- in this project you will be able to communicate with library website using only your voice orders .
+- Easy to customize.
+- Clean, responsive design
+## note 
+A README file is included, providing detailed instructions to help you use the project efficiently.
